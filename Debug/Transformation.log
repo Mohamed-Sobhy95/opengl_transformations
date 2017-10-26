@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(107): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mohamed\source\repos\transformation\transformation\main.cpp(119): warning C4305: 'argument': truncation from 'double' to 'float'
+  Transformation.vcxproj -> C:\Users\Mohamed\source\repos\Transformation\Debug\Transformation.exe
+  Transformation.vcxproj -> C:\Users\Mohamed\source\repos\Transformation\Debug\Transformation.pdb (Partial PDB)
